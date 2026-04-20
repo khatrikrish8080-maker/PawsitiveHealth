@@ -1,2 +1,2 @@
 # PawsitiveHealth
-AI health tools for dogs
+AI health scanner tool for dogs
