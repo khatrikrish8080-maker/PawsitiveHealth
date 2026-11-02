@@ -1,0 +1,593 @@
+Disease: Canine Parvovirus (Parvo)
+Symptoms: Severe bloody diarrhea, vomiting, lethargy, fever, loss of appetite, rapid dehydration.
+Urgency: Critical Emergency
+Treatment: Hospitalization, IV fluids, anti-nausea medication, plasma transfusions, aggressive supportive care.
+Prevention: Core vaccination series starting at 6-8 weeks of age.
+
+Disease: Kennel Cough (Infectious Tracheobronchitis)
+Symptoms: Persistent dry hacking cough ("goose honk"), gagging, sneezing, mild fever, nasal discharge.
+Urgency: Moderate
+Treatment: Rest, cough suppressants, anti-inflammatories, antibiotics if secondary bacterial infection occurs.
+Prevention: Bordetella vaccination, avoiding overcrowded dog facilities.
+
+Disease: Canine Distemper
+Symptoms: Fever, nasal and eye discharge, coughing, lethargy, vomiting, hardening of footpads, seizures, paralysis.
+Urgency: Critical Emergency
+Treatment: Supportive therapy, anti-seizure medications, IV fluids, hospital isolation.
+Prevention: Core distemper vaccination.
+
+Disease: Rabies
+Symptoms: Extreme behavioral changes, aggression, foaming at the mouth, inability to swallow, paralysis, death.
+Urgency: Critical Emergency
+Treatment: Fatal once symptoms appear; immediate quarantine and local health authority notification.
+Prevention: Mandatory rabies vaccination.
+
+Disease: Lyme Disease
+Symptoms: Lameness that shifts from leg to leg, swollen joints, fever, swollen lymph nodes, fatigue.
+Urgency: High
+Treatment: Course of oral antibiotics (such as doxycycline) for several weeks.
+Prevention: Tick preventative treatments, Lyme vaccine.
+
+Disease: Heartworm Disease
+Symptoms: Persistent cough, reluctance to exercise, fatigue, weight loss, swollen abdomen.
+Urgency: High
+Treatment: Series of injectable medications to kill adult worms under strict exercise restriction.
+Prevention: Monthly heartworm preventative chewables or topical drops.
+
+Disease: Otitis Externa (Outer Ear Infection)
+Symptoms: Head shaking, scratching at ears, red or swollen ear canal, foul odor, dark discharge.
+Urgency: Moderate
+Treatment: Ear cleansing, topical medicated ear drops (antibiotic/antifungal/steroid).
+Prevention: Keeping ears dry after swimming/bathing, routine ear cleaning.
+
+Disease: Flea Allergy Dermatitis (FAD)
+Symptoms: Intense itching, biting at base of tail and back legs, hair loss, red scabby skin.
+Urgency: Low to Moderate
+Treatment: Strict flea control products, topical anti-itch sprays, antihistamines, short-term steroids.
+Prevention: Year-round oral or topical flea preventatives.
+
+Disease: Gastric Dilatation-Volvulus (Bloat)
+Symptoms: Swollen hard abdomen, unproductive retching/pacing, restlessness, drooling, shock.
+Urgency: Critical Emergency
+Treatment: Emergency surgical decompression and gastropexy (stomach tacking).
+Prevention: Feeding smaller meals, avoiding heavy exercise immediately after eating.
+
+Disease: Canine Influenza (Dog Flu)
+Symptoms: Moist or dry cough, sneezing, nasal discharge, fever, eye discharge, severe lethargy.
+Urgency: High
+Treatment: Supportive care, hydration, rest, broad-spectrum antibiotics for secondary infections.
+Prevention: Canine Influenza vaccine.
+
+Disease: Leptospirosis
+Symptoms: Fever, muscle stiffness, shivering, weakness, excessive thirst and urination, jaundice (yellowing skin/eyes).
+Urgency: High
+Treatment: Immediate antibiotic therapy (doxycycline/penicillin), hospitalization, fluid therapy.
+Prevention: Leptospirosis vaccine, avoiding stagnant water sources.
+
+Disease: Giardiasis
+Symptoms: Foul-smelling watery diarrhea, greasy stool, gas, vomiting, weight loss.
+Urgency: Moderate
+Treatment: Anti-parasitic medications (such as fenbendazole or metronidazole), thorough bath.
+Prevention: Preventing access to contaminated puddle water and feces.
+
+Disease: Canine Diabetes Mellitus
+Symptoms: Excessive thirst, frequent urination, increased appetite alongside weight loss, cloudy eyes (cataracts).
+Urgency: High
+Treatment: Daily subcutaneous insulin injections, high-fiber dietary management.
+Prevention: Weight management, regular exercise.
+
+Disease: Hypothyroidism
+Symptoms: Weight gain without increased appetite, hair loss, dry flaky coat, lethargy, seeking warmth.
+Urgency: Moderate
+Treatment: Daily synthetic thyroid hormone replacement medication (levothyroxine).
+Prevention: Cannot be prevented; managed effectively with lifelong medication.
+
+Disease: Canine Pancreatitis
+Symptoms: Hunched back posture, severe abdominal pain, repeated vomiting, fever, diarrhea, dehydration.
+Urgency: High to Critical Emergency
+Treatment: Fasting, aggressive IV fluid therapy, pain management, anti-emetic drugs.
+Prevention: Avoiding high-fat foods, table scraps, and trash access.
+
+Disease: Canine Parainfluenza
+Symptoms: Coughing, fever, nasal discharge, lack of energy, loss of appetite.
+Urgency: Moderate
+Treatment: Rest, isolation, cough medication, antibiotics if secondary bacterial infection is present.
+Prevention: Inclusion in core respiratory vaccines (DHPP).
+
+Disease: Urinary Tract Infection (UTI)
+Symptoms: Straining to urinate, frequent attempts to urinate small amounts, blood in urine, licking genital area.
+Urgency: High
+Treatment: Targeted course of oral antibiotics based on urine culture.
+Prevention: Fresh water access, frequent bathroom breaks, proper grooming.
+
+Disease: Canine Brucellosis
+Symptoms: Infertility, spontaneous abortion in females, swollen testicles in males, back or joint pain.
+Urgency: High
+Treatment: Long-term antibiotic therapy; difficult to completely cure; neutering recommended.
+Prevention: Testing breeding dogs prior to mating.
+
+Disease: Demodectic Mange (Demodicosis)
+Symptoms: Patchy hair loss around eyes and muzzle, red scaly skin, non-itchy in early stages.
+Urgency: Low to Moderate
+Treatment: Medicated baths, oral prescription flea/mite preventatives (e.g., Isoxazolines).
+Prevention: Maintaining strong immune health; avoiding breeding affected dogs.
+
+Disease: Sarcoptic Mange (Scabies)
+Symptoms: Extreme itching, crusty scabs on elbow/ear margins, widespread hair loss, secondary skin infections.
+Urgency: Moderate
+Treatment: Prescription topical or oral anti-parasitics, anti-itch medicated baths.
+Prevention: Avoiding contact with infected wild animals (foxes/stray dogs).
+
+Disease: Ringworm (Dermatophytosis)
+Symptoms: Circular patches of hair loss, crusty scaly skin, brittle nails.
+Urgency: Low
+Treatment: Topical antifungal dips/ointments, oral antifungal medications, environmental decontamination.
+Prevention: Cleaning bedding, isolating infected animals.
+
+Disease: Periodontal Disease (Gum Disease)
+Symptoms: Foul breath, red or bleeding gums, yellow-brown tartar buildup, loose teeth, reluctance to chew.
+Urgency: Moderate
+Treatment: Professional dental cleaning under anesthesia, tooth extractions, antibiotic gels.
+Prevention: Daily tooth brushing, dental chews, routine vet dental checkups.
+
+Disease: Kennel Flea Infestation
+Symptoms: Visible crawling dark insects, flea dirt (black specs), frequent biting/scratching.
+Urgency: Low
+Treatment: Oral/topical flea treatments, environmental spraying, vacuuming.
+Prevention: Regular preventative application.
+
+Disease: Canine Anaplasmosis
+Symptoms: Joint pain, lameness, high fever, lethargy, pale gums, vomiting.
+Urgency: High
+Treatment: Oral antibiotics (doxycycline) for 14-30 days.
+Prevention: Tick preventatives, daily tick checks.
+
+Disease: Canine Ehrlichiosis
+Symptoms: Fever, swollen lymph nodes, bleeding disorders (nosebleeds), weight loss, eye inflammation.
+Urgency: High
+Treatment: Course of doxycycline antibiotics, supportive blood transfusions if severe.
+Prevention: Strict tick control.
+
+Disease: Coccidiosis
+Symptoms: Mucus-filled or bloody diarrhea, dehydration, abdominal distress, weight loss in puppies.
+Urgency: Moderate to High
+Treatment: Anti-coccidial medications (sulfa drugs).
+Prevention: Keeping kennels clean, preventing access to contaminated soil.
+
+Disease: Hookworm Infection
+Symptoms: Pale gums (anemia), dark tarry stools, weakness, skin irritation on paws.
+Urgency: High (especially in puppies)
+Treatment: Deworming medications (e.g., pyrantel pamoate), iron supplements.
+Prevention: Monthly heartworm preventatives that cover intestinal worms, picking up feces promptly.
+
+Disease: Roundworm Infection
+Symptoms: Pot-bellied appearance in puppies, dull coat, vomiting worms, diarrhea.
+Urgency: Moderate
+Treatment: Standard broad-spectrum dewormers.
+Prevention: Routine puppy deworming protocol, clean environment.
+
+Disease: Whipworm Infection
+Symptoms: Diarrhea containing fresh blood and mucus, weight loss, anemia.
+Urgency: Moderate
+Treatment: Specific deworming agents (fenbendazole) repeated over three months.
+Prevention: Prompt disposal of feces, preventing dog from sniffing soil where infected dogs frequented.
+
+Disease: Tapeworm Infection
+Symptoms: Small white rice-like segments around anus or in feces, scooting rear end on ground.
+Urgency: Low
+Treatment: Praziquantel deworming medication.
+Prevention: Effective flea control, preventing ingestion of rodents/wild prey.
+
+Disease: Canine Epilepsy (Idiopathic)
+Symptoms: Uncontrolled muscle twitching, paddling legs, loss of consciousness, salivation during seizures.
+Urgency: High
+Treatment: Daily lifelong anti-seizure medications (e.g., phenobarbital, levetiracetam).
+Prevention: Genetic screening; cannot be prevented if idiopathic.
+
+Disease: Intervertebral Disc Disease (IVDD)
+Symptoms: Back or neck pain, reluctance to jump/climb, arched back, hind leg weakness, sudden paralysis.
+Urgency: Critical Emergency
+Treatment: Strict cage rest, anti-inflammatory medications, emergency spinal surgery in severe cases.
+Prevention: Weight control, using ramps instead of stairs for long-backed breeds (e.g., Dachshunds).
+
+Disease: Osteoarthritis
+Symptoms: Stiffness upon rising, slow movements, limping, reluctance to run or climb stairs.
+Urgency: Low to Moderate
+Treatment: Joint supplements (glucosamine/chondroitin), pain management drugs (NSAIDs), physical therapy.
+Prevention: Maintaining healthy weight, moderate exercise.
+
+Disease: Hip Dysplasia
+Symptoms: "Bunny hopping" gait, difficulty standing up, decreased range of motion, hip joint pain.
+Urgency: Moderate
+Treatment: Physical therapy, weight management, anti-inflammatories, total hip replacement surgery.
+Prevention: Responsible breeding, proper growth-rate nutrition in large-breed puppies.
+
+Disease: Elbow Dysplasia
+Symptoms: Forelimb lameness, swollen elbow joints, outward rotation of paws, painful limb extension.
+Urgency: Moderate
+Treatment: Arthroscopic surgery, joint injections, pain relief medication.
+Prevention: Breeding clearance, avoiding over-nutrition during puppy growth phase.
+
+Disease: Patellar Luxation
+Symptoms: Skipping or hopping gait, sudden leg holding up, knee joint pops back in place after stretching.
+Urgency: Moderate
+Treatment: Surgical correction for high-grade luxation, pain relief for mild cases.
+Prevention: Weight management, avoiding high-impact jumping in small breeds.
+
+Disease: Corneal Ulcer
+Symptoms: Squinting, excessive tearing, cloudiness in eye, pawing at eyes, red conjunctiva.
+Urgency: High
+Treatment: Antibiotic eye drops, pain drops, protective Elizabeth collar (cone).
+Prevention: Eye protection, trimming sharp hair around eyes.
+
+Disease: Cataracts
+Symptoms: Opaque bluish-white cloudiness inside the lens of the eye, bumping into objects, vision loss.
+Urgency: Low to Moderate
+Treatment: Surgical removal of cataracts and lens replacement by a veterinary ophthalmologist.
+Prevention: Managing underlying conditions like diabetes; bloodline screening.
+
+Disease: Glaucoma
+Symptoms: Severe eye pain, bulging eyeball, reddened whites of the eye, dilated pupil, sudden blindness.
+Urgency: Critical Emergency
+Treatment: Medicated eye drops to reduce pressure, laser surgery, eye removal if irreversibly blind and painful.
+Prevention: Routine ophthalmic exams for predisposed breeds.
+
+Disease: Keratoconjunctivitis Sicca (Dry Eye)
+Symptoms: Thick yellowish-green eye discharge, dull cloudy cornea, painful blinking, chronic eye redness.
+Urgency: Moderate
+Treatment: Daily lifelong tear-stimulating eye drops (cyclosporine/tacrolimus), artificial tears.
+Prevention: Early diagnosis and compliance with topical medications.
+
+Disease: Cherry Eye (Prolapsed Nictitans Gland)
+Symptoms: Red fleshy mass protruding from the inner corner of the lower eyelid.
+Urgency: Moderate
+Treatment: Surgical replacement and suturing of the third eyelid gland back into place.
+Prevention: Genetic condition; proper breeding selection.
+
+Disease: Conjunctivitis (Pink Eye)
+Symptoms: Redness inside eyelids, watery or purulent eye discharge, frequent blinking.
+Urgency: Low
+Treatment: Antibiotic or steroid eye drops depending on bacterial vs allergic cause.
+Prevention: Cleaning facial folds, protecting eyes from dust and wind.
+
+Disease: Canine Hyperadrenocorticism (Cushing's Disease)
+Symptoms: Excessive drinking and urination, pot-bellied appearance, symmetrical hair loss, thin skin.
+Urgency: Moderate
+Treatment: Daily oral enzyme inhibitors (trilostane) under strict blood monitoring.
+Prevention: Hormonal condition; cannot be prevented directly.
+
+Disease: Hypoadrenocorticism (Addison's Disease)
+Symptoms: Episodic weakness, shaking, severe lethargy, vomiting, sudden cardiovascular collapse (Addisonian crisis).
+Urgency: Critical Emergency
+Treatment: Emergency IV fluids/steroids during crisis; long-term mineralocorticoid and glucocorticoid replacement.
+Prevention: Endocrine disease; no direct prevention.
+
+Disease: Idiopathic Vestibular Disease
+Symptoms: Sudden loss of balance, severe head tilt, rapid side-to-side eye movements (nystagmus), falling over.
+Urgency: High
+Treatment: Anti-nausea medication, supportive nursing care; usually self-resolves in 1-3 weeks.
+Prevention: Age-related condition; no direct prevention.
+
+Disease: Dilated Cardiomyopathy (DCM)
+Symptoms: Rapid breathing, coughing, weakness, exercise intolerance, fainting, swollen belly.
+Urgency: Critical Emergency
+Treatment: Heart medications (pimobendan, ACE inhibitors, diuretics), oxygen therapy.
+Prevention: Feeding balanced diets approved by AAFCO, avoiding grain-free diets linked to nutritional DCM.
+
+Disease: Mitral Valve Disease (MVD)
+Symptoms: Heart murmur detected by vet, coughing (especially at night), lethargy, panting, fainting.
+Urgency: High
+Treatment: Medication regimen to ease heart workload and manage fluid retention.
+Prevention: Weight management, regular cardiac checkups in small breeds.
+
+Disease: Brachycephalic Airway Obstructive Syndrome (BAOS)
+Symptoms: Loud snorting/snoring, difficulty breathing, blue gums, exercise intolerance, overheating.
+Urgency: High
+Treatment: Surgical widening of nostrils and trimming of elongated soft palate.
+Prevention: Avoiding high heat/humidity, using harnesses instead of neck collars.
+
+Disease: Tracheal Collapse
+Symptoms: Harsh dry cough resembling a horn blow, difficulty breathing, blueish tongue when excited.
+Urgency: High
+Treatment: Cough suppressants, bronchodilators, weight loss, surgical stenting in advanced cases.
+Prevention: Using a harness rather than a neck collar, weight control.
+
+Disease: Pyometra
+Symptoms: Pus draining from vulva, swollen abdomen, excessive drinking, lethargy, fever in unspayed females.
+Urgency: Critical Emergency
+Treatment: Emergency surgical removal of infected uterus (spay), broad-spectrum IV antibiotics.
+Prevention: Spaying female dogs at an appropriate age.
+
+Disease: Cryptorchidism
+Symptoms: Failure of one or both testicles to descend into the scrotum by 2 months of age.
+Urgency: Moderate
+Treatment: Surgical removal of the retained testicle(s).
+Prevention: Genetic condition; affected dogs should not be bred.
+
+Disease: Benign Prostatic Hyperplasia (BPH)
+Symptoms: Difficulty defecating (flat ribbony stool), blood in urine, enlarged pain-free prostate in unneutered males.
+Urgency: Moderate
+Treatment: Castration (neutering) leads to rapid prostate shrinkage.
+Prevention: Neutering male dogs.
+
+Disease: False Pregnancy (Pseudopregnancy)
+Symptoms: Swollen mammary glands, milk production, nesting behavior, mothering toy objects in non-pregnant female.
+Urgency: Low
+Treatment: Self-limiting within 2-3 weeks; mild sedatives or hormone inhibitors if severe.
+Prevention: Spaying the dog.
+
+Disease: Mastitis
+Symptoms: Hot, painful, swollen mammary glands, discolored milk (pus/blood), fever, reluctance to nurse puppies.
+Urgency: High
+Treatment: Antibiotics, warm compresses, gentle milking out of affected glands, fluid therapy.
+Prevention: Keeping whelping box clean, clipping puppy nails so they do not scratch nipples.
+
+Disease: Acute Renal Failure
+Symptoms: Sudden lack of urination, severe vomiting, extreme lethargy, breath smelling like urine, collapse.
+Urgency: Critical Emergency
+Treatment: Aggressive IV fluid therapy, toxin removal, dialysis in specialized facilities.
+Prevention: Keeping toxins (antifreeze, raisins, human medications) strictly out of reach.
+
+Disease: Chronic Kidney Disease
+Symptoms: Gradual increase in drinking and urination, weight loss, poor appetite, pale gums, mouth sores.
+Urgency: High
+Treatment: Prescription renal diet, phosphate binders, subcutaneous fluids at home, blood pressure medication.
+Prevention: Routine blood/urine screening in senior dogs.
+
+Disease: Acute Hepatic Necrosis (Liver Failure)
+Symptoms: Jaundice (yellowing eyes/gums), fluid accumulation in abdomen (ascites), confusion, dark urine.
+Urgency: Critical Emergency
+Treatment: Hospitalization, liver protectants (SAMe, silymarin), IV fluids, nutritional support.
+Prevention: Avoiding liver toxins (sago palm, blue-green algae, certain medications).
+
+Disease: Hemangiosarcoma
+Symptoms: Sudden pale gums, acute collapse, distended belly, rapid heart rate (due to internal bleeding from tumor rupture).
+Urgency: Critical Emergency
+Treatment: Emergency blood transfusions, emergency surgery to remove spleen/tumor, chemotherapy.
+Prevention: Difficult to prevent; early screening ultrasound in high-risk breeds (Golden Retrievers).
+
+Disease: Osteosarcoma (Bone Cancer)
+Symptoms: Sudden persistent lameness, firm painful swelling on leg bones, bone fractures from minor impact.
+Urgency: High
+Treatment: Limb amputation combined with chemotherapy for pain relief and life extension.
+Prevention: Genetic predisposition; prompt evaluation of limb pain.
+
+Disease: Lymphoma
+Symptoms: Firm painless swelling of lymph nodes under jaw, behind knees, and shoulder, weight loss, lethargy.
+Urgency: High
+Treatment: Multi-agent chemotherapy protocols (CHOP protocol).
+Prevention: Genetic/environmental factors; routine wellness exams.
+
+Disease: Mast Cell Tumor
+Symptoms: Skin bumps that change in size rapidly, become red/ulcerated, swelling after scratch.
+Urgency: Moderate to High
+Treatment: Wide surgical excision, biopsy, targeted chemotherapy or radiation.
+Prevention: Regular skin checkups and prompt fine-needle aspiration of any new bump.
+
+Disease: Melanoma (Oral/Skin)
+Symptoms: Dark pigmented mass on gums, lips, or nail beds, bleeding from mouth, bad breath, loose teeth.
+Urgency: High
+Treatment: Surgical removal, radiation therapy, therapeutic melanoma vaccine.
+Prevention: Good oral hygiene, protecting light-skinned dogs from extreme sun exposure.
+
+Disease: Histiocytoma
+Symptoms: Small, red, raised button-like skin lump that appears suddenly on young dogs (head/legs).
+Urgency: Low
+Treatment: Often self-resolves within 2-3 months; surgical removal if irritated or persistent.
+Prevention: Benign growth; no known prevention.
+
+Disease: Lipoma
+Symptoms: Soft, moveable, painless fatty mass located just beneath the skin.
+Urgency: Low
+Treatment: Generally no treatment required unless mass restricts mobility; surgical excision.
+Prevention: Maintaining ideal body weight.
+
+Disease: Sebaceous Cyst
+Symptoms: Smooth, raised bump under the skin containing thick cheesy white material.
+Urgency: Low
+Treatment: Leave alone unless inflamed; surgical removal or warm compress.
+Prevention: Keep skin and coat clean.
+
+Disease: Hot Spots (Acute Moist Dermatitis)
+Symptoms: Rapidly appearing red, moist, oozing, painful hairless patch of skin that the dog licks constantly.
+Urgency: Moderate
+Treatment: Shaving area, topical antiseptic/antibiotic sprays, oral steroids/antibiotics, wearing a cone.
+Prevention: Drying coat thoroughly after swimming, managing underlying allergies and fleas.
+
+Disease: Impetigo
+Symptoms: Small pus-filled blisters on hairless skin of abdomen in puppies, mild itching.
+Urgency: Low
+Treatment: Medicated antibacterial shampoos, topical antibiotic ointments.
+Prevention: Clean puppy bedding, good hygiene practices.
+
+Disease: Pododermatitis
+Symptoms: Redness, swelling, sores, hair loss, and excessive licking between the toe pads.
+Urgency: Moderate
+Treatment: Foot soaks, treating underlying cause (allergies, mites, foreign body), antibiotics.
+Prevention: Drying paws after walks, avoiding harsh floor chemicals.
+
+Disease: Zinc-Responsive Dermatosis
+Symptoms: Crusty, scaly lesions around mouth, eyes, ears, and paw pads.
+Urgency: Low to Moderate
+Treatment: Dietary zinc supplementation.
+Prevention: Balanced diet suited to northern breeds (Huskies, Malamutes).
+
+Disease: Exocrine Pancreatic Insufficiency (EPI)
+Symptoms: Massive volume of pale, greasy, foul-smelling stool, intense hunger alongside severe weight loss.
+Urgency: Moderate
+Treatment: Lifelong supplementation with pancreatic digestive enzymes mixed into food.
+Prevention: Immune-mediated condition; manageable with daily enzymes.
+
+Disease: Inflammatory Bowel Disease (IBD)
+Symptoms: Chronic intermittent vomiting, bloody or mucoid diarrhea, abdominal rumbling, weight loss.
+Urgency: Moderate
+Treatment: Novel protein or hydrolyzed diet, immunosuppressive medications (prednisone).
+Prevention: Avoiding sudden diet changes, managing food allergies.
+
+Disease: Hemorrhagic Gastroenteritis (HGE / AHDS)
+Symptoms: Sudden explosive raspberry-jam-like bloody diarrhea, severe vomiting, extreme weakness, shock.
+Urgency: Critical Emergency
+Treatment: Immediate aggressive IV fluid resuscitation, anti-nausea meds, pain management.
+Prevention: Unknown trigger; avoid sudden garbage or dietary indiscretions.
+
+Disease: Esophageal Foreign Body
+Symptoms: Excessive drooling, regurgitation of food immediately after swallowing, distress, neck pain.
+Urgency: Critical Emergency
+Treatment: Endoscopic retrieval under anesthesia or surgical removal.
+Prevention: Keeping cooked bones, small toys, and rawhides away from dogs.
+
+Disease: Gastric Foreign Body Obstruction
+Symptoms: Repetitive vomiting after eating/drinking, lack of stool, abdominal tenderness, lethargy.
+Urgency: Critical Emergency
+Treatment: Abdominal ultrasound/X-ray, endoscopic or open abdominal surgical removal.
+Prevention: Preventing access to socks, balls, trash, and small household objects.
+
+Disease: Intussusception
+Symptoms: Telescope-like folding of intestine into itself causing severe vomiting, bloody diarrhea, pain.
+Urgency: Critical Emergency
+Treatment: Emergency abdominal surgery to manually unfold or resect damaged bowel.
+Prevention: Prompt treatment of intestinal parasites and severe enteritis.
+
+Disease: Perianal Fistula
+Symptoms: Painful ulcerated bleeding tracts around the anus, straining to defecate, tail-tucking, scooting.
+Urgency: High
+Treatment: Immunosuppressive topical medications (tacrolimus), oral cyclosporine, specialized diet.
+Prevention: Common in German Shepherds; prompt attention to anal gland discomfort.
+
+Disease: Anal Sacculitis / Impacted Anal Glands
+Symptoms: Scooting rear end across carpet, licking anus frantically, foul fishy odor, swelling next to anus.
+Urgency: Moderate
+Treatment: Manual expression of anal glands, flushing with antibiotic/steroid solution, warm compresses.
+Prevention: High-fiber diet to ensure firm stools that naturally express glands.
+
+Disease: Copper Storage Hepatopathy
+Symptoms: Jaundice, fluid in belly, lethargy, loss of appetite due to excess copper accumulation in liver.
+Urgency: High
+Treatment: Copper-chelating medications (d-penicillamine), low-copper prescription diet.
+Prevention: Genetic testing in susceptible breeds (Bedlington Terriers, Dobermans).
+
+Disease: Splenic Hematoma
+Symptoms: Large non-cancerous blood-filled mass on spleen; can rupture causing acute internal collapse.
+Urgency: Critical Emergency
+Treatment: Emergency splenectomy (spleen removal), blood transfusions.
+Prevention: Prompt evaluation of abdominal distension.
+
+Disease: Immune-Mediated Hemolytic Anemia (IMHA)
+Symptoms: Severe jaundice, pale or yellow gums, dark orange/brown urine, profound weakness, rapid collapse.
+Urgency: Critical Emergency
+Treatment: High-dose immunosuppressive drugs (prednisone, cyclosporine), blood transfusions.
+Prevention: Autoimmune disorder; prompt treatment of triggers like infections.
+
+Disease: Immune-Mediated Thrombocytopenia (ITP)
+Symptoms: Small pinpoint red spots on gums/skin (petechiae), purple bruises (ecchymosis), nosebleeds, blood in stool.
+Urgency: Critical Emergency
+Treatment: Immunosuppressive therapy, blood/platelet transfusions, vincristine.
+Prevention: Autoimmune disorder; keep up with tick control.
+
+Disease: Von Willebrand Disease
+Symptoms: Excessive prolonged bleeding after minor cuts, nail trims, tail docking, or spay/neuter surgery.
+Urgency: High
+Treatment: Desmopressin (DDAVP), transfusions of cryoprecipitate before surgical procedures.
+Prevention: Genetic screening prior to breeding.
+
+Disease: Disseminated Intravascular Coagulation (DIC)
+Symptoms: Uncontrolled widespread bleeding from multiple body sites, severe shock, tissue death.
+Urgency: Critical Emergency
+Treatment: Plasma transfusions, treating primary underlying crisis (sepsis, heatstroke, bloat).
+Prevention: Rapid intervention for critical primary diseases.
+
+Disease: Heatstroke (Hyperthermia)
+Symptoms: Excessive frantic panting, dark red gums, thick saliva, vomiting, staggering, seizures, loss of consciousness.
+Urgency: Critical Emergency
+Treatment: Immediate active cooling with cool water (not ice water), IV fluids, hospitalization.
+Prevention: Never leave dogs in parked cars, avoid exercise in peak summer heat, provide shade and water.
+
+Disease: Hypothermia
+Symptoms: Violent shivering, lethargy, muscle stiffness, slow heart rate, shallow breathing, coma.
+Urgency: Critical Emergency
+Treatment: Warm blankets, warm IV fluids, heating pads with barriers to prevent skin burns.
+Prevention: Limiting cold exposure in freezing temperatures, providing insulated shelters.
+
+Disease: Chocolate Toxicity
+Symptoms: Vomiting, diarrhea, restlessness, panting, high heart rate, muscle tremors, seizures.
+Urgency: High to Critical Emergency
+Treatment: Inducing vomiting if recent, activated charcoal, IV fluids, heart medication.
+Prevention: Keeping all baking chocolate, cocoa powder, and candy strictly out of reach.
+
+Disease: Xylitol Toxicity (Birch Sugar)
+Symptoms: Rapid severe drop in blood sugar within 30 mins, weakness, staggering, seizures, liver failure.
+Urgency: Critical Emergency
+Treatment: Immediate IV dextrose (sugar) fluids, liver protectants, continuous monitoring.
+Prevention: Checking sugar-free peanut butter, gum, and baked goods labels carefully.
+
+Disease: Grape and Raisin Toxicity
+Symptoms: Vomiting, lethargy, loss of appetite followed by acute kidney failure within 24-72 hours.
+Urgency: Critical Emergency
+Treatment: Decontamination, aggressive IV fluid diuresis for 48 hours to protect kidneys.
+Prevention: Keeping all grapes, raisins, and trail mix away from pets.
+
+Disease: Allium Toxicity (Garlic & Onion)
+Symptoms: Pale gums, weakness, orange/red urine, panting, high heart rate (due to destroyed red blood cells).
+Urgency: High
+Treatment: Decontamination, fluid therapy, oxygen support, blood transfusions in severe cases.
+Prevention: Avoiding feeding human foods seasoned with garlic or onion powder.
+
+Disease: Rat Poison Ingestion (Anticoagulant Rodenticide)
+Symptoms: Spontaneous internal bleeding 3-5 days after ingestion, lethargy, coughing blood, swollen joints.
+Urgency: Critical Emergency
+Treatment: High-dose prescription Vitamin K1 therapy for 30 days, blood transfusions.
+Prevention: Keeping rodent baits completely inaccessible to pets.
+
+Disease: Ethylene Glycol Toxicity (Antifreeze)
+Symptoms: Staggering ("drunken" gait), severe drooling, excessive drinking, followed by fatal kidney shutdown.
+Urgency: Critical Emergency
+Treatment: Antidote administration (Fomepizole or ethanol) within 3 hours of ingestion.
+Prevention: Cleaning up engine leaks immediately; using propylene glycol-based antifreeze.
+
+Disease: Snakebite Envenomation
+Symptoms: Rapid painful local swelling, bleeding fang puncture marks, drooling, vomiting, shock, collapse.
+Urgency: Critical Emergency
+Treatment: Species-specific antivenom, aggressive fluid therapy, pain management, wound care.
+Prevention: Keeping dogs on leash in snake-prone trails, avoiding tall grass/rock piles.
+
+Disease: Bee or Wasp Sting Reaction
+Symptoms: Sudden facial swelling, hives under fur, localized pain, extreme scratching; anaphylaxis (pale gums, collapse) in severe cases.
+Urgency: Moderate to Critical Emergency
+Treatment: Antihistamines (diphenhydramine), steroids, epinephrine injection for anaphylaxis.
+Prevention: Preventing dogs from snapping at flying insects.
+
+Disease: Toad Envenomation (Bufo / Cane Toad)
+Symptoms: Profuse foaming/frothing at the mouth, bright red gums, head shaking, seizures, high heart rate.
+Urgency: Critical Emergency
+Treatment: Immediately flush mouth out sideways with running hose water; vet care for heart meds and sedatives.
+Prevention: Keeping dogs indoors during warm damp nights when toads are active.
+
+Disease: Myasthenia Gravis
+Symptoms: Progressive muscle weakness that worsens with exercise and improves with rest, megaesophagus, regurgitation.
+Urgency: High
+Treatment: Acetylcholinesterase inhibitors (pyridostigmine), managing megaesophagus with elevated feeding.
+Prevention: Autoimmune or congenital condition; manageable with daily medication.
+
+Disease: Horner's Syndrome
+Symptoms: Sunken eye, droopy upper eyelid, constricted pupil, elevated third eyelid on one side of face.
+Urgency: Low to Moderate
+Treatment: Resolves as underlying middle ear infection, neck injury, or nerve issue is treated.
+Prevention: Protecting neck from trauma; prompt treatment of ear infections.
+
+Disease: Degenerative Myelopathy (DM)
+Symptoms: Progressive painless weakness and dragging of hind legs, knuckling paws over, eventual paralysis in older dogs.
+Urgency: Moderate
+Treatment: No cure; physical therapy, mobility carts, supportive care to maintain quality of life.
+Prevention: Genetic screening in predisposed breeds (German Shepherds, Boxers).
+
+Disease: Cognitive Dysfunction Syndrome (Dog Dementia)
+Symptoms: Disorientation, pacing at night, getting stuck behind furniture, house-soiling, altered interactions.
+Urgency: Low
+Treatment: Specialized prescription diets, brain-support supplements (Omega-3s), selegiline medication.
+Prevention: Lifelong mental stimulation, healthy diet, regular exercise.
+
+Disease: Cranial Cruciate Ligament (CCL) Rupture
+Symptoms: Sudden non-weight-bearing hindlimb lameness, swollen knee joint, sitting with leg extended out sideways.
+Urgency: Moderate
+Treatment: Surgical stabilization (TPLO, Extracapsular repair), joint supplements, physical therapy.
+Prevention: Weight management, avoiding sudden intense jumping on poor footing.
