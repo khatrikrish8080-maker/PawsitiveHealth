@@ -7,3 +7,5 @@ langchain-google-genai
 langchain-huggingface
 streamlit
 ddgs
+faiss-cpu
+sentence-transformers
