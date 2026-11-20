@@ -4,4 +4,5 @@ langchain-openai
 langchain-groq
 python-dotenv
 langchain-google-genai
-langchain_huggingface
+langchain-huggingface
+streamlit
