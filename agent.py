@@ -21,7 +21,7 @@ def medical_rag_tool(query: str)-> str:
     """
     return retrieve(query,k=2)
 
-search=DuckDuckGoSearchRun()
+search=DuckDuckGoSearchRun(api_wrapper=DuckDuckGoSearchAPIWrapper(region="in-en"))
 
 @tool
 def location_tool(query):
