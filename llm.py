@@ -14,12 +14,4 @@ def get_chat_model():
         api_key=api_key,
         max_retries=2,
     )
-    
-    fallback = ChatGoogleGenerativeAI(
-        model="gemini-3.8-flash",
-        api_key=api_key,
-        thinking_level="low",
-        max_retries=1,
-    )
-    
-    return primary.with_fallbacks([fallback])
+    return primary
