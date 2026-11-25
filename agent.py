@@ -5,6 +5,7 @@ from langchain_classic.agents import AgentExecutor
 from langchain_classic.agents import create_react_agent
 from langchain_core.prompts import PromptTemplate
 from langchain_core.tools import tool
+from langchain_community.utilities import DuckDuckGoSearchAPIWrapper
 
 
 # pyrefly: ignore[missing-import]
